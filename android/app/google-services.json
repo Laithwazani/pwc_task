@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118452543498",
+    "project_id": "pwc-task-84019",
+    "storage_bucket": "pwc-task-84019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118452543498:android:247c86e6ebea416891fff3",
+        "android_client_info": {
+          "package_name": "pwctask.net.pwc_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118452543498-9s029bl5524p1mkeisrf0t2c65rh0bdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApMYIHmagv48t1t34Sz1n_p_Zbecx3nw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118452543498-9s029bl5524p1mkeisrf0t2c65rh0bdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
